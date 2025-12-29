@@ -16,6 +16,7 @@ Hospital environments can disrupt sleep and circadian rhythms. CircadianLight ex
 - **Web dashboard**: HTML / CSS / JavaScript
 - **LittleFS** (serves the dashboard files)
 - Utilized **Digital to Analog Converter (DAC)** pins on ESP32 (for brightness + channel mixing)
+- Powered by a **7V power supply**
 
 ## Features
 - Manual control: brightness + warm/cool balance  
